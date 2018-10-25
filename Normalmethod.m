@@ -1,0 +1,1 @@
+thetaN = inv(X'*X)*X'*y %gives more or less close theta value
